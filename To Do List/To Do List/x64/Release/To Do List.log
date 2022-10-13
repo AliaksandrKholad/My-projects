@@ -1,0 +1,9 @@
+﻿  Menu.cpp
+  Task.cpp
+  To_Do_List.cpp
+  To_Do_List_Main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 316 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  To Do List.vcxproj -> C:\Users\Aliaksandr\source\repos\My-projects\To Do List\x64\Release\To Do List.exe
