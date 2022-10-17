@@ -3,7 +3,8 @@
   To_Do_List.cpp
   To_Do_List_Main.cpp
   Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 316 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  207 of 336 functions (61.6%) were compiled, the rest were copied from previous compilation.
+    20 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  To Do List.vcxproj -> C:\Users\Aliaksandr\source\repos\My-projects\To Do List\x64\Release\To Do List.exe
+  To Do List.vcxproj -> C:\Users\Aliaksandr\Source\Repos\My-projects\To Do List\x64\Release\To Do List.exe
