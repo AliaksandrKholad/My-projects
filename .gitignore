@@ -2,7 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/My-projects/v17/.suo
 /.vs
 /To Do List/.vs/To Do List
 /Shop/.vs/Shop/v17
