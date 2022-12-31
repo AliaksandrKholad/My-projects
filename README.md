@@ -1,2 +1,2 @@
-# My-projects
-My C++ projects
+# My To Do List
+My To Do List in C++
